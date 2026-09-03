@@ -1,1 +1,1 @@
-
+The business framework I will be attempting to create is one for a small health clinic, consisting of three nurses, a doctor (who acts as admin for the network), and a Human resources department. The nurses would have access to patients they are assigned to, where the doctor will have access to all patient information. HR will have a separate file storage for potential employees kept separate from patient records. As health records are protected by HIPPA, security measure will need to be in place to ensure only those with proper credentials can access restricted files.
