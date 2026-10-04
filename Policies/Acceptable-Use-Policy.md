@@ -56,3 +56,8 @@ This policy will be reviewed annually or whenever a change is made to our securi
 Acknowledgement
 
 By signing this document you have read and understand the Acceptable Use Policy and are beholden to any disciplinary actions that arise as a consequence of breaking the agreement.
+_______________________________________
+
+NIST CSF 2.0 Mappings
+GV.PO-01: Purpose, Scope, Disciplinary action
+GV.PO-02: Annual Review / Change-Triggered Review
